@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ambar Avalos</h1>
-<h3 align="center">An analyitcal dev with a vested interest in tech and educational equity.</h3>
+<h3 align="center">An analytical dev with a vested interest in tech and educational equity.</h3>
 
 - 🔭 I’m currently working on [Sight Word Tracker(education)](https://github.com/ambar12345/Sight-Word-Tracker)
 
