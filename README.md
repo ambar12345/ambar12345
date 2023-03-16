@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **continually learning about the tech world and improving my skills**
 
-- 👨‍💻 All of my projects are available at [ambarav.netlify.app](ambarav.netlify.app)
+- 👨‍💻 All of my projects are available at [[ambarav.netlify.app](https://ambarav.netlify.app)]
  
 - 💬 Ask me about **html,css,javascript**. I'm down to talk about **educational equity, neurodiverse learning, and special education** too!
 
