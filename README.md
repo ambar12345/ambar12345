@@ -10,9 +10,7 @@
 - 🤝 I’m looking for help with **continually learning about the tech world and improving my skills**
 
 - 👨‍💻 All of my projects are available at [ambarav.netlify.app](ambarav.netlify.app)
-
-- 📝 Know about my experiences <a href="https://docs.google.com/document/d/e/2PACX-1vRZe1rSiKQ5BbLEDIhd9lTZkG0GdvnrM72lqOvnNIfshU_43T9JFjjGs3EVPRGA9w/pub">My Resume</a>
-- 
+ 
 - 💬 Ask me about **html,css,javascript** and **educational equity, neurodiverse learning, and special education**
 
 - 📫 How to reach me **ambaravalos1217@gmail.com**
