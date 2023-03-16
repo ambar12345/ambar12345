@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [ambarav.netlify.app](ambarav.netlify.app)
  
-- 💬 Ask me about **html,css,javascript** and **educational equity, neurodiverse learning, and special education**
+- 💬 Ask me about **html,css,javascript**. I'm down to talk about **educational equity, neurodiverse learning, and special education** too!
 
 - 📫 How to reach me **ambaravalos1217@gmail.com**
 
