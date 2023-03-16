@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Community Built/Open Source Projects**
 
-- 🤝 I’m looking for help with **continually learning about the tech world and improving my skills**
+- 🤝 I’m looking for **projects to work on & awesome people to learn from **
 
-- 👨‍💻 All of my projects are available at [[ambarav.netlify.app](https://ambarav.netlify.app)]
+- 👨‍💻 All of my finished projects are available at [[ambarav.netlify.app](https://ambarav.netlify.app)]
  
 - 💬 Ask me about **html,css,javascript**. I'm down to talk about **educational equity, neurodiverse learning, and special education** too!
 
